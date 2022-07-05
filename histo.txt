@@ -1,0 +1,32 @@
+1000     ajout     500     succès     positif    
+2000     ajout     700     succès     positif    
+3000     ajout     100     succès     negatif    
+4000     ajout     1000     succès     positif   
+2000     ajout     400     succès     positif    
+3000     retrait     700     succès     negatif    
+3000     retrait     700     echec     negatif    
+3000     retrait     700     echec     negatif    
+2000     retrait     1600     echec     positif    
+3000     retrait     700     succès     negatif    
+3000     retrait     700     succès     negatif    
+3000     retrait     700     succès     negatif    
+3000     retrait     700     succès     negatif    
+3000     retrait     700     succès     negatif    
+
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
+2000 ajout 100 succès positif
